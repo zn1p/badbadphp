@@ -1,0 +1,5 @@
+<?php
+
+/*some sensitive info */
+
+?>
